@@ -56,3 +56,41 @@ print((a+b)/2)
 a= int(input("a: "))
 b= int(input("b: "))
 print(a+b,a*b,a**2,b**2)
+
+#Masala 11
+
+a = int(input("a: "))
+b = int(input("b: "))
+
+print(a+b,a*b)
+
+#Masala 12
+
+a = int(input("a: "))
+b = int(input("b: "))
+print("c= ", (a**2+b**2)*2)
+print("P= ", a+b+c)
+
+#Masala 13
+
+PI = 3.14
+R1 = int(input("R1: ")) 
+R2 = int(input("R2: "))
+print("S1= ", R1*PI)
+print("S2= ", R2*PI)
+print("S3= ", PI*(R1-R2))
+
+#Masala 14
+
+PI = 3.14
+R = int(input("R: "))
+print("L= ", 2*PI*R)
+print("S= ",PI*R**2)
+
+#Masala 15
+
+PI = 3.14
+R = int(input("R: "))
+print("L= ", 2*PI*R)
+print("S= ",PI*R**2)
+
