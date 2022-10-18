@@ -94,3 +94,38 @@ R = int(input("R: "))
 print("L= ", 2*PI*R)
 print("S= ",PI*R**2)
 
+#Masala 16
+
+X1 = int(input("X1: "))
+X2 = int(input("X2: "))
+print(X1 - X2)
+
+#Masala 17
+
+AB = int(input("AB: "))
+BC = int(input("BC: "))
+print("AC = ",AB + BC  )
+print("ABC = ", AB + BC )
+
+#Masala 18
+
+AB = int(input("AB: "))
+BC = int(input("BC: "))
+print(AB*BC)
+
+#19 Masala
+
+a = int(input("a: "))
+b = int(input("b: "))
+print("P = ", 2*(a+b))
+print("S = ", a*b )
+
+#20 Masala
+
+X1= int(input("X1: "))
+X2= int(input("X2: "))
+Y1 = X1
+Y2 = X2
+
+print((X1 - X2)**2+(Y1 - Y2)**2)
+
