@@ -206,4 +206,46 @@ PI = 3.14
 
 print(0<a<2*PI)
 
+a = int(input("a: "))
+PI = 3.14
+
+print(0<a<2*PI)
+
+#Masala 31
+
+TF = int(input("TF: "))
+TC = int(input("TC: "))
+print("TC = ", (TF - 32)*5/9)
+
+#Masala 32
+
+TF = int(input("TF: "))
+TC = int(input("TC: "))
+print("TC = ", (TF - 32)*5/9)
+
+#Masala 33
+
+X = int(input("X: "))
+Y = int(input("Y: "))
+A = int(input("A: "))
+
+print("X = ", A)
+print(Y*X)
+
+#Masala 34
+
+X = int(input("X: "))
+Y = int(input("Y: "))
+A = int(input("A: "))
+
+print("X = ", A)
+print(Y*X)
+
+#Masala 35
+
+V = int(input("V: "))
+U = int(input("U: "))   
+T1 = int(input("T1: "))
+T2 = int(input("T2: "))
+print(V/T1,U/T2)
 
