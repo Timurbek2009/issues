@@ -249,3 +249,38 @@ T1 = int(input("T1: "))
 T2 = int(input("T2: "))
 print(V/T1,U/T2)
 
+#Masala 36
+
+V1 = int(input("V1: " ))
+V2 = int(input("V2: " ))
+T = int(input("T: " ))
+print("S= ", (V1+V2)*T)
+
+#Masala 37 
+
+V1 = int(input("V1: " ))
+V2 = int(input("V2: " ))
+T = int(input("T: " ))
+print("S= ", (V1+V2)*T)
+
+#Masala 38
+
+A = int(input("A: "))
+B = int(input("B: "))
+print(A*x+B)
+
+#Masala 39
+
+A = int(input("A: "))
+B = int(input("B: "))
+print(A*x+B)
+
+#Masala 40
+
+A1 = int(input("A1: "))
+A2 = int(input("A2: "))
+B1 = int(input("B1: "))
+B2 = int(input("B2: "))
+
+print("C1=", A1*x+B1*y,"C2=" , A2*x+B2*y,"x =",(C1*B2 - C2*B1)/D, "y=", (A1*C2 - A2*C1)/D)
+print("D= ", A1*B2 - A2*B1)
